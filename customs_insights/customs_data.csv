@@ -1,0 +1,15 @@
+Year,Country,Product,ImportValue,ExportValue
+2022,USA,Electronics,500000,350000
+2022,USA,Agriculture,200000,250000
+2022,Canada,Automotive,300000,400000
+2022,Mexico,Electronics,150000,160000
+2022,Mexico,Agriculture,170000,120000
+2022,China,Textiles,600000,200000
+2022,Germany,Automotive,450000,470000
+2023,USA,Electronics,550000,370000
+2023,USA,Agriculture,220000,260000
+2023,Canada,Automotive,320000,420000
+2023,Mexico,Electronics,160000,170000
+2023,Mexico,Agriculture,180000,130000
+2023,China,Textiles,650000,230000
+2023,Germany,Automotive,470000,480000
